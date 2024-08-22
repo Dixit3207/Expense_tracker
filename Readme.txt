@@ -6,7 +6,4 @@ How to run the Daily Expense Tracking System  Project
 5. Create a database with name detsdb 
 6. Import detsdb.sql file(given inside the zip package in sql file folder)
 7.Run the script http://localhost/dets (frontend)
-Credential for user panel  OR you can register your self:
-Username: testuser@gmail.com
-Password: 1234
 
